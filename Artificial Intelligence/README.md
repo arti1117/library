@@ -1,7 +1,29 @@
 # Follow Artificial Intelligence Engineer Track in Stanford
 
-..Repeat 7 times :)<br>
-
+수학
+ 1. 미분적분학 - 제임스 스튜어트
+ 2. 프리드버그 선형대수학
+ 3. CS103
+ 4. CS109
+ 5. 확률의 입문 - Sheldon Ross
+ 
+공학
+ 1. CS106B
+ 2. ENGR40M
+ 
+컴퓨터공학 기초
+ 1. CS107
+ 2. CS110
+ 3. CS161
+ 
+컴퓨터공학 심화
+ 1. CS221: 인공지능 현대적 접근방식
+ 2. NNML - Geoffrey Hinton: 단단한 머신러닝
+ 3. RL - David Silver: 단단한 강화학습
+ 4. CS131
+ 5. CS229: 패턴인식과 머신러닝
+ 6. CS230: 심층학습 - 이안 굿펠로
+ 7. CS231N: 신경망과 심층학습
 
 [Mathematics](../master/Mathematics/README.md)<br>
 [MATH19](../master/Mathematics/MATH19/README.md) -
